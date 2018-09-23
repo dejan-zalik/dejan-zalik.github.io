@@ -4,10 +4,9 @@ text-align: center;
 }
 
 p {
-color: blue;
+color: green;
 text-align: center;
 }
-
 
 div, .test, .testLeft, .testCenter, .testRight {
 border-radius: 50px;
