@@ -8,6 +8,10 @@ color: green;
 text-align: center;
 }
 
+body {
+background-color: rgb(70,140,140);
+}
+
 div, .test, .testLeft, .testCenter, .testRight {
 border-radius: 50px;
 text-align: center;
