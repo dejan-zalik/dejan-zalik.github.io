@@ -4,11 +4,11 @@ var displayLoading = function (point) {
   document.getElementById('loading').innerHTML = 'Loading' + point;
 }
 
-something();
+loading();
 
-setInterval(something, 3000);
+setInterval(loading, 3000);
 
-function something() {
+function loading() {
   points.forEach((point, i) => {
     setTimeout(() => {
       displayLoading(point)
